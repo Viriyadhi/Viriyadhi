@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Viriyadhi
-- 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning HTML,CSS,JS,VueJS
+- 👀 I’m interested in FullStack Web Development
+- 🌱 I’m currently learning JS, VueJS, ExpressJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
