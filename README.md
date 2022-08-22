@@ -17,7 +17,6 @@
 <img align="left" alt="NodeJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<img align="left" alt="GitLab" width="26px" src="https://gitlab.com/Aakarsh-B/trying-repos/blob/master/gitlab.svg" />
 <br />
 <br />
   
