@@ -1,6 +1,6 @@
 ## Hello There 👋, I'm <a href="https://github.com/Viriyadhi" target="_blank">Viriyadhi</a>!
 
-<a href="https://www.linkedin.com/in/raehan-robban-488994203/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.linkedin.com/in/tjan-viriyadhi-68a663224/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://www.instagram.com/viriyadhi_sidharta/" target="_blank"><img align="left" alt="Viriyadhi | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 
 <br />
